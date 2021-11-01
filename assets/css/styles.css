@@ -607,39 +607,26 @@ input{
 /*========== NEWSLETTER ==========*/
 .newsletter__description{
   text-align: center;
-  margin-top: -2rem;
   margin-bottom: var(--mb-1-5);
 }
 
-.newsletter__container{
+.newsletter__form{
   background: var(--container-color);
-  padding: 2.5rem;
+  padding: 1rem;
   display: flex;
   justify-content: space-between;
   border-radius: .75rem;
-  align-items: center;
-  align-content: center;
 }
 
 .newsletter__input{
   width: 70%;
+  padding: 0 .75rem;
   background: none;
   color: var(--title-color);
-  font-size: var(--normal-font-size);
 }
 
-.newsletter__container .button
 .newsletter__input::placeholder{
   color: var(--text-color);
-}
-
-.newsletter__form{
-  display: flex;
-  width: 120%;
-}
-
-.newsletter__container .button{
-  padding: .75rem;
 }
 
 /*========== FOOTER ==========*/
@@ -816,11 +803,6 @@ input{
   }
   .newsletter__description{
     padding: 0 3rem;
-  }
-
-  .home__content{
-    padding-top: 5rem;
-    gap: 3rem;
   }
 }
 
