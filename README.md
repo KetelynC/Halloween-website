@@ -11,12 +11,6 @@ Site responsivo desenvolvido em comemoração ao Halloween, feito com HTML CSS &
 
 Gostosuras ou Travessuras? O site foi desenvolvido ser baseando em elementos conhecidos do dia das bruxas (Halloween), contem animações para capturar a atenção dos usuários além de um menu interativo para que possam interagir com o site, as seções incluem menu interativo, carrossel de imagens, cards de produtos, Newsletter e rodapé.
 
-## Video de Apresentação
-
-<video width="600" height="500" controls>
-  <source src="DOC/apresentacao.mp4" type="video/mp4">
-  Esse Navegador não oferecer suporte a esse video
-</video>
 
 ## Construído com
 
